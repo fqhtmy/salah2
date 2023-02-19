@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Form - Anas Naufal Al-kiram</string>
+    <string name="name">Nama</string>
+    <string name="npm">NPM</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="tombol">Submit</string>
+    <string name="self_destruct">Submit</string>
+    <string name="done">done</string>
+</resources>
